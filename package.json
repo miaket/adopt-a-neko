@@ -1,0 +1,19 @@
+{
+  "name": "adopt-a-neko",
+  "version": "1.0.0",
+  "description": "give nekos warm home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miaket/adopt-a-neko.git"
+  },
+  "author": "leonardo kato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miaket/adopt-a-neko/issues"
+  },
+  "homepage": "https://github.com/miaket/adopt-a-neko#readme"
+}
