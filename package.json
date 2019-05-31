@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/miaket/adopt-a-neko/issues"
   },
-  "homepage": "https://github.com/miaket/adopt-a-neko#readme"
+  "homepage": "https://github.com/miaket/adopt-a-neko#readme",
+  "dependencies": {
+    "express": "4.16.3",
+    "yarn": "^1.16.0"
+  }
 }
