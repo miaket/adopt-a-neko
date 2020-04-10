@@ -4,7 +4,8 @@
   "description": "give nekos warm home",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,10 @@
   "dependencies": {
     "express": "4.16.3",
     "yarn": "^1.16.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "nodemon": "1.18.4",
+    "prettier": "2.0.4"
   }
 }
