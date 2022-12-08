@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/miaket/adopt-a-neko#readme",
   "dependencies": {
-    "express": "4.16.3",
+    "express": "4.17.3",
     "yarn": "^1.16.0"
   },
   "devDependencies": {
